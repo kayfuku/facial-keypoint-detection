@@ -1,0 +1,17 @@
+name: cv-nd
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.6
+  - pytorch
+  - torchvision
+  - opencv
+  - jupyter
+  - scipy
+  - pillow
+  - pandas
+  - numpy
+  - matplotlib
+  - autopep8
+prefix: /Users/kei/miniconda3/envs/cv-nd
