@@ -1,6 +1,15 @@
 # facial-keypoint-detection
 
-This project is based on Udacity Computer Vision Nanodegree program.
+This repo is based on Udacity Computer Vision Nanodegree program.
+
+Pipelines  
+<img src='./images/pipelines.jpg' height=500 width=800 >
+
+CNN  
+<img src='./images/cnn.jpg' height=400 width=800 >
+
+Random Crop  
+<img src='./images/random_crop.jpg' height=400 width=800 >
 
 [//]: # "Image References"
 [image1]: ./images/key_pts_example.png "Facial Keypoint Detection"
